@@ -6,10 +6,6 @@ struct node{
     struct node *prev;
 };
 struct node *head;
-void concat(struct node *ptr)
-{
-    
-}
 void display(struct node *ptr)
 {
     while(ptr != NULL){

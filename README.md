@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Weather Point](https://github.com/OINDIL/WeatherOfficial)
 
-- 🌱 I’m currently learning **Laravel, PHP and MySQL**
+- 🌱 I’m currently learning **React JS && Next JS**
 
 - 👨‍💻 All of my projects are available at [https://oindil.github.io/official-portfolio/](https://oindil.github.io/official-portfolio/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Front-end**
 
 - 📫 How to reach me **oindilgolder303@gmail.com**
 

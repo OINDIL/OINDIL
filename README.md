@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/oindilg" target="blank"><img src="https://img.shields.io/twitter/follow/oindilg?logo=twitter&style=for-the-badge" alt="oindilg" /></a> </p>
 
-- 🔭 I’m currently working on a freelance project for a company.You can visit my [LinkedIn]("www.linkedin.com/in/oindil-golder") for more info. The Repo is private.
+- 🔭 I’m currently working on a freelance project for a company.You can visit my [LinkedIn]("https://www.linkedin.com/in/oindil-golder") for more info. The Repo is private.
 
 - 🌱 I’m currently learning **React JS && Next JS**
 

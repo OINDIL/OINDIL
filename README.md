@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/oindilg" target="blank"><img src="https://img.shields.io/twitter/follow/oindilg?logo=twitter&style=for-the-badge" alt="oindilg" /></a> </p>
 
-- 🔭 I’m currently working on [Weather Point](https://github.com/OINDIL/WeatherOfficial)
+- 🔭 I’m currently working on a [freelance project for a company]. The Repo is private.
 
 - 🌱 I’m currently learning **React JS && Next JS**
 

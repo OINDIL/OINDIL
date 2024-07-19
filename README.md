@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS && Next JS**
 
-- 👨‍💻 All of my projects are available at [https://oindil.github.io/official-portfolio/](https://oindil.github.io/og-portfolio/)
+- 👨‍💻 All of my projects are available at [https://oindil.github.io/og-portfolio/](https://oindil.github.io/og-portfolio/)
 
 - 💬 Ask me about **Front-end**
 

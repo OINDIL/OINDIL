@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm OINDIL GOLDER</h1>
 <h3 align="center">Learning to center a div.</h3>
 
-<p align="left"> <a href="https://twitter.com/oindilg" target="blank"><img src="https://img.shields.io/twitter/follow/oindilg?logo=twitter&style=for-the-badge" alt="oindilg" /></a> </p>
-
-- 🔭 I’m currently working on a freelance project for a company.You can visit my **LinkedIn** for more info. The Repo is private.
+- 🔭 I’m currently working as a ```Full Stack Developer``` in a startup company. You can visit my ```LinkedIn``` for more info. The Repo is private.
 
 - 🌱 I’m currently learning **React JS && Next JS**
 
-- 👨‍💻 All of my projects are available at [https://oindil.github.io/og-portfolio/](https://oindil.github.io/og-portfolio/)
+- 👨‍💻 All of my projects are available at ```GitHub```
 
-- 💬 Ask me about **Front-end**
+- 💬 Ask me about ```Web Development```
 
-- 📫 How to reach me **oindilgolder303@gmail.com**
+- 📫 How to reach me ```oindilgolder303@gmail.com```
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tXUUVDyQlBeTWE04mJbXBjftR5PASdmw/view?usp=drive_link](https://drive.google.com/file/d/1tXUUVDyQlBeTWE04mJbXBjftR5PASdmw/view?usp=drive_link)
+- 📄 Know about my experiences [My CV (Outdated, building new one soon)](https://drive.google.com/file/d/1tXUUVDyQlBeTWE04mJbXBjftR5PASdmw/view?usp=drive_link)
 
-- ⚡ Fun fact **I have Asian Huuuumor**
+- ⚡ Fun fact ```I have Asian Huuuumor```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

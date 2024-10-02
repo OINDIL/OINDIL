@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OINDIL GOLDER</h1>
-<h3 align="center">A learner, learning how to center a div.</h3>
+<h3 align="center">Learning to center a div.</h3>
 
 <p align="left"> <a href="https://twitter.com/oindilg" target="blank"><img src="https://img.shields.io/twitter/follow/oindilg?logo=twitter&style=for-the-badge" alt="oindilg" /></a> </p>
 

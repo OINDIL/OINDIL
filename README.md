@@ -11,7 +11,7 @@
 
 - 📫 How to reach me ```oindilgolder303@gmail.com```
 
-- 📄 Know about my experiences [My CV]([https://drive.google.com/file/d/1tXUUVDyQlBeTWE04mJbXBjftR5PASdmw/view?usp=drive_link](https://docs.google.com/document/d/1Ng3K1p5S-FM3AF5cngoX5x0GCiuV253yd41N2WRiqGs/edit?usp=drive_link))
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1Ng3K1p5S-FM3AF5cngoX5x0GCiuV253yd41N2WRiqGs/edit?usp=drive_link)
 
 - ⚡ Fun fact ```I have Asian Huuuumor```
 

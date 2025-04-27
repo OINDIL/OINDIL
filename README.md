@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on `My StartUp 🤩`<br>👯 I’m looking to collaborate on `Full Stack Applications`<br>🤝 I’m looking for help with `Electron JS`<br>🌱 I’m currently learning `Next JS`<br>💬 Ask me about `Web Dev`<br>⚡ Fun fact `I have completed the Hacktober Fest '24`
+🔭 I’m currently working on `My StartUp 🤩`<br>👯 I’m looking to collaborate on `Full Stack Applications`<br>🤝 I’m looking for help with `Centering a Div`<br>🌱 I’m currently learning `Next JS`<br>💬 Ask me about `Web Dev`<br>⚡ Fun fact `I have completed the Hacktober Fest '24`
 
 
 ## 🌐 Socials:

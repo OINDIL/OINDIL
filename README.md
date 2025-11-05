@@ -10,6 +10,7 @@ Full Stack Developer. <br>
 
 <i>I know other tech stacks too like Node JS, Express JS and MongoDB, you just have to ask.</i>
 
-Socials - <br>
+🗣️ Socials - <br>
 <i>X - @OindilG</i> <br>
-<i>Fiverr - Also available there</i>
+<i>Fiverr - Also available there</i> <br>
+<i>Portfolio - [Link](https://og-porfolio-redesigned.vercel.app)</i>

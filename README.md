@@ -13,4 +13,4 @@ Full Stack Developer. <br>
 🗣️ Socials - <br>
 <i>X - @OindilG</i> <br>
 <i>Fiverr - Also available there</i> <br>
-<i>Portfolio - [Link](https://wwww.oindil.codes)</i>
+<i>Portfolio - [Link](https://www.oindil.codes)</i>

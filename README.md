@@ -10,7 +10,9 @@ Full Stack Developer. <br>
 
 <i>I know other tech stacks too like Node JS, Express JS and MongoDB, you just have to ask.</i>
 
+🤓 Some of my works - [Link to projects](https://www.oindil.codes/projects)
+
 🗣️ Socials - <br>
 <i>X - @OindilG</i> <br>
 <i>Fiverr - Also available there</i> <br>
-<i>Portfolio - [Link](https://www.oindil.codes)</i>
+<i>Portfolio - [Link to portfolio](https://www.oindil.codes)</i>
